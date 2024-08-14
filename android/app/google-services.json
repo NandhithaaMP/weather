@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551907649825",
+    "project_id": "weatherapp-bfff2",
+    "storage_bucket": "weatherapp-bfff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551907649825:android:ee530cab832b72f814f660",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCON9t21mkMoTlVTCQSttLYDrz01qSJ2d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
